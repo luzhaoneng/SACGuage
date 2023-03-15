@@ -118,7 +118,7 @@
 			
 			this.render(this.$value, this.$info, this.$color);
 		}
-	}
+	}123
 	
 	customElements.define("com-demo-gauge", Box);
 })();
